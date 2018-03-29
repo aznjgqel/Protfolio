@@ -6,7 +6,7 @@ This is Jiaqi Zhu's protfolio.
 
 This project utilized cross-sectional data from American Community Survey and National Longitudinal Survey of Youth with geographic information to examine the relationship between commuting time to work and depression. I applied Spatial lag regression to analyze the merged data with QGIS and R, and concluded that longer commuting time to work is associated with longer days of feeling depressive.
 
--[Report](https://github.com/aznjgqel/Protfolio/blob/Project2/Depression%20and%20Commuting%20time%20to%20work_JiaqiZhu.pdf)
+- [Report](https://github.com/aznjgqel/Protfolio/blob/Project2/Depression%20and%20Commuting%20time%20to%20work_JiaqiZhu.pdf)
 
 ## Project #2 Airbnb in New York
 
